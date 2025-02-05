@@ -1,4 +1,4 @@
 Name = ALdika Fama Reynanda 
 Class = B4CC
 Age = 19   
-Male              
+Gender = Male 
