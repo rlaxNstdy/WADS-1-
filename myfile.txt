@@ -11,3 +11,6 @@ How to push :
 
 How to pull : 
 1. git pull (before push the we need to pull first )
+
+Github Cheat Sheet 
+https://www.geeksforgeeks.org/git-cheat-sheet/
